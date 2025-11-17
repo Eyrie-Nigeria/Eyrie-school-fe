@@ -95,8 +95,8 @@ export default function EyrieScholarshipForm() {
             </h2>
             <p className="text-gray-600 mt-2">
               A one-year student-friendly program combining{' '}
-              <strong>6 months of guided tech learning</strong> and{' '}
-              <strong>6 months of internship experience</strong>.
+              <strong>9 months of guided tech learning</strong> and{' '}
+              <strong>3 months of internship experience</strong>.
             </p>
           </div>
 
